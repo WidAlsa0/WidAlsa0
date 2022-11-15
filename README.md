@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **WidAlsa0/WidAlsa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+
+**Personal Health Calendar**: Web Development - https://github.com/WidAlsa0/a99-toliman <br />
+Collaborated with a team of five to develop a wellness calendar. Contains mental and physical tasks that refresh on a daily basis for the user to implement.
+
+**Producers Consumers**: Concurrency - https://github.com/WidAlsa0/ProducersConsumers <br />
+A visual representation of Dijkstra's bounded-buffer problem. Showcases how multiple processes and threads work together to allow for communication between different objects.
+
+**Shell**: Operating Systems - https://github.com/Comp211-FA21/final-project-WidAlsa0 <br />
+A final project that creates a shell. Parses and executes inputted commands.
+
